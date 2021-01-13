@@ -1,0 +1,31 @@
+{
+  "name": "elm-combo",
+  "version": "1.0.0",
+  "description": "ELM combobox component",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gribouille/elm-combo.git"
+  },
+  "keywords": [
+    "elm",
+    "component",
+    "combo",
+    "combobox",
+    "javascript",
+    "scss",
+    "css"
+  ],
+  "author": "Gribouille <gribouille.git@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/gribouille/elm-combo/issues"
+  },
+  "homepage": "https://github.com/gribouille/elm-combo#readme"
+}

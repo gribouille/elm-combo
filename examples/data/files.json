@@ -1,0 +1,3002 @@
+[
+  {
+    "file": "LICENSE",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "dist/replica",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "dist/replica/from-scratch",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "dist/replica/from-scratch/plan9.db",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/from-scratch/plan9.log",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/plan9binary.log",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/proto2",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/binary",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "dist/replica/plan9.db",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/network",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "dist/replica/plan9binary.proto",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/plan9binary.db",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/plan9.log",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/kfs",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/inst",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "dist/replica/plan9.compressed.db",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/plan9.proto",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/cd",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/plan9.compressed.log",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "dist/replica/_plan9.db",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mips/include",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mips/include/ape",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mips/include/ape/float.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips/include/ape/stdarg.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips/include/ape/math.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips/include/ape/ureg.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips/include/mips2ureg.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips/include/u.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips/include/ureg.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips/mkfile",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mips/bin",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mips/bin/ape",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mips/bin/ape/psh",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/include",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/include/ape",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/include/ape/float.h",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "386/include/ape/stdarg.h",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "386/include/ape/math.h",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "386/include/ape/ureg.h",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "386/include/u.h",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "386/include/ureg.h",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "386/mkfile",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "386/bin",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/upas",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/upas/isspam",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/upas/spam",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/upas/msgcat",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/upas/unspam",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/usb",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/usb/usbfat:",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/usb/probe",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/aux",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/aux/vmware",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/aux/cropmarks",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/aux/grabit",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/aux/hardcopy",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/disk",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/disk/ksync",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/disk/mk9660",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/ape",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/ape/psh",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/venti",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/venti/conf",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/replica",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/replica/changes",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/replica/scan",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/replica/pull",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/replica/push",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/replica/setupdirs",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/bitsy",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/bitsy/light",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/auth",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/auth/status",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/auth/disable",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/auth/enable",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "386/bin/fossil",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "386/bin/fossil/conf",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "NOTICE",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "usr",
+    "date": "2018-02-17 11:06:00",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda",
+    "date": "2018-02-17 11:06:00",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda/lib",
+    "date": "2018-02-17 11:06:00",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda/lib/profile",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "usr/glenda/lib/acme.dump.small",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "usr/glenda/lib/newstime",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "usr/glenda/lib/first.window",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda/lib/acme.dump",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "usr/glenda/lib/plumbing",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "usr/glenda/readme.rio",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "usr/glenda/bin",
+    "date": "2018-02-17 11:06:00",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda/bin/rc",
+    "date": "2018-02-17 11:06:00",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda/bin/rc/screensize",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda/bin/rc/pull",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda/bin/rc/riostart",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "usr/glenda/readme.acme",
+    "date": "2018-02-17 11:06:00",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mail/faxqueue",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mail/faxqueue/faxrecipients",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/grey",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mail/grey/revdom",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/grey/whitelist",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/grey/whsort",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/rewrite.direct",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/remotemail",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/justqmail",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/gone.msg",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/smtpd.conf",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/isspam.rc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/unspam.rc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/pipeto.bayes",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/msgcat.rc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/pipeto.lib",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/validateaddress",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/rewrite.gateway",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/white.starter",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/rewrite",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/validateattachment",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/kickqueue",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/classify.re",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/ignore",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/validatesender",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/qmail",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/patterns",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/namefiles",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/blocked",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/spam.rc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/mailnews",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/setup.bayes",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/prof.spam",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/gone.fishing",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/lazyqmail",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "mail/lib/prof.mbox",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/lib/names.local",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "mail/box",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mail/box/glenda",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "mail/box/glenda/L.mbox",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "adm/keys.who",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/netkeys.who",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/whois",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "adm/timezone/Canada_Central",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Turkey",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Canada_East-Saskatchewan",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_NSW",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Uruguay",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_East-Indiana",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_LHI",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/README",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Israel",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_West",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Michigan",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Arizona",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_Sturt",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Egypt",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Mexico_General",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_North",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Eastern",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/ROK",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Japan",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/CET",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Hawaii",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Mexico_BajaSur",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Central",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Jamaica",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Chile_Continental",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Brazil_Acre",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/W-SU",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Pacific",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Cuba",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Navajo",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/PRC",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Mountain",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Canada_Eastern",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Brazil_West",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/HST",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/EET",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_Yancowinna",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_Queensland",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_Tasmania",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Poland",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/GMT",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_Victoria",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/GB-Eire",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/ROC",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Canada_Mountain",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Hongkong",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Libya",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Singapore",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_Broken-Hill",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Canada_Newfoundland",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_ACT",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Brazil_East",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Canada_Pacific",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Australia_South",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Iceland",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Canada_Yukon",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Canada_Atlantic",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Mexico_BajaNorte",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/NZ",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/WET",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Argentina",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/NZ_CHAT",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Yukon",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/US_Alaska",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Brazil_DeNoronha",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/local",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Iran",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/timezone/Chile_EasterIsland",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/users",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "adm/cache",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "cron",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "cron/upas",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "cron/upas/cron",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "cron/sys",
+    "date": "2018-02-17 11:05:58",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "cron/sys/cron",
+    "date": "2018-02-17 11:05:58",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "rc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/lib",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/lib/rcmain",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "rc/bin",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/C",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/lp",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ipconf",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ipconf/inside",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ipconf/lra",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ipconf/outside",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ipconf/theworld",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/addpsfonts",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/wloc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/psu",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/E",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/fedex",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/map",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/troff2png",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/usbfat:",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/dosmnt",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/eject",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/9fs",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/weather",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/sig",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/tlsclienttunnel",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/wdoc2txt",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/doc2txt",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/slay",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/mail",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/reboot",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/whois",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/umem",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/broke",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pci",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/c:",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/fshalt",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/spell",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/who",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/dmaon",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/mousereset",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/vwhois",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/readweb",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/lookman",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/mkusbboot",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/doc2ps",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ps2gif",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/0c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ipv6on",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/sorry",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/okay",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/applied",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/create",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/apply",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/list",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/notify",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/undo",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/diff",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/save",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/remove",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/patch/note",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "rc/bin/patch/move",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/ar89",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/printf",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/yacc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/cat",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/psh",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/umask",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/true",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/ls",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/ln",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/dircp",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/install",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/ranlib",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/egrep",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/ld",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/chown",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/rmdir",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/fgrep",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/grep",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/c89",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ape/false",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/uptime",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/src",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/diskparts",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/usps",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/window",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/tinyurl",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pdf2ps",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/tel",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/rwd",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/soelim",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/replica",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/replica/defs",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "rc/bin/replica/changes",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/replica/scan",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/replica/pull",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/replica/push",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/replica/setupdirs",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/lc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/startcifs",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp17007",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/!tcp515",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/startnfs",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp19",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/!il17007",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp113",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/!tcp17013",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/!il17008",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp17005",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp17010",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/!il17031",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp22",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp143",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp25",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp53",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp23",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp7",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp995",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp21",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp993",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp565",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/telcodata",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/telcofax",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp17006",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp513",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp9",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp17009",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/!tcp564",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service/tcp110",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ps2pdf",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/yesterday",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/dpost",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/doctype",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/uncompress",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/9fat:",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/dbcalc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/thesaurus",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/dircp",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/cpurc.local",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ssh",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/kmem",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/nroff",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ipso",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/setrtc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/defs",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "rc/bin/pc/bootfloppy",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/bootwin9x",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/setup.9fat",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/isfat",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/bootplan9",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/setup.disk",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/personalize",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/update",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/pc/bootwinnt",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/iwhois",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service.auth",
+    "date": "2018-02-17 11:05:59",
+    "perm": "drwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service.auth/authsrv.tcp567",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/service.auth/authsrv.il566",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ap",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/delkey",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/label",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/addaoe",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/stop",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/troff2gif",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/wurl2txt",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/go.fishing",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/man",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/termrc.local",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/printfont",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/kill",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/homespool",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/start",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/b:",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/startupasfs",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/cpurc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/tlssrvtunnel",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/psfax",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/xls2txt",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/bundle",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/seemail",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/B",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/usbstart",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/0l",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/srvssh",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/a:",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/membername",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/fax",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/diffy",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/ups",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/usbeject",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/loadfossil",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/0a",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/dontkill",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/Kill",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/termrc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/stock",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/juke",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/leak",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "rc/bin/mapdemo",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iplugin.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxcoord.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iinit.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gslparam.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevsvga.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxtype1.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/dwsetup.cpp",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevbbox.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxttfb.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdev8bcm.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsmalloc.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gscolor.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevstc1.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gscoord.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/stdio_.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gscrd.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevmeds.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gs.mak",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsfunc3.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sfxstdio.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxpcopy.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ztrap.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/pipe_.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevdrop.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxshade.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevnfwd.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/stream.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsiodevs.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevmpla.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zfbcp.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sbhc.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevsunr.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/macgenmcpxml.sh",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/idparam.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsstate.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevherc.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gshtx.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gscscie.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsht1.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gscspace.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sjpege.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/dwnodll.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/igcref.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ifunc.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ttinterp.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsdll32.rc",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevpsu.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/wccommon.mak",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevpbm.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevsgi.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zmisc3.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zfmd5.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sa85d.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsequivc.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/icclib.mak",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sjpeg.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ziodevst.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/inames.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gslib.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/oper.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gp_msdll.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevevga.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/macos-mcp.mak",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/dmmain.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/spsdf.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zarray.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsexit.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sfilter.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsdps.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxfdrop.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevpsu.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zpcolor.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevpdfi.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/spsdf.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/idebug.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/unix-aux.mak",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxdhtres.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/x_.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsalphac.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iosdata.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gp_dosfs.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zmedia2.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxdcconv.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsline.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsciemap.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsbitcom.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ireclaim.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsccolor.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zfproc.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxp1impl.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iref.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iddict.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/idsdata.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ifcid.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gshsb.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zfunc4.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sdctd.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevppla.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevvglb.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zdouble.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/scommon.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxsync.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxfdrop.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevmiff.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gs.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxshade4.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zcharx.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsbitops.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/dpmain.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gpmisc.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gp_getnv.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevtifs.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sjpx.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/string_.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gx.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/spngp.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gs_dll_call.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevm40.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gzcpath.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/szlibd.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zfont.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/idisp.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gstext.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/scf.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iimage2.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/mv.cmd",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxsample.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxclip2.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevdsha.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevokii.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsutil.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ziodev2.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevdfax.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/jconfig0.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsbitmap.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevtsep.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/scantab.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/smtf.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sisparam.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxcdevn.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iastruct.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevplnx.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zdosio.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevm4.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zcid.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sa85x.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxclpath.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevsj48.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxcht.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/szlibc.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ztype.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iastate.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxdevrop.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sbhc.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gscpixel.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/isdata.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gscie.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevpxut.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxcmap.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iccinit0.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ialloc.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxdither.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevmacttf.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rwxr-xr-x"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/idparam.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ctype_.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/zfapi.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/iutilasm.asm",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/inamedef.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevxcf.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/openvms.mmk",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/ttcalc.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevclj.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/sfilter1.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/inamestr.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gsbitops.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gdevpdfd.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/gxshade.c",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  },
+  {
+    "file": "sys/src/cmd/gs/src/stdpre.h",
+    "date": "2018-02-17 11:05:59",
+    "perm": "-rw-r--r--"
+  }
+]

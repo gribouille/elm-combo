@@ -1,0 +1,232 @@
+[
+  {
+    "id": 0,
+    "login": "mbenasyag",
+    "firstname": "Miguel",
+    "lastname": "Benasyag",
+    "mail": "miguel.benasyag@corp.com",
+    "phone": "+033678372931",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 1,
+    "login": "jbenda",
+    "firstname": "Julien",
+    "lastname": "Benda",
+    "mail": "julien.benda@corp.com",
+    "phone": "+033678372932",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 2,
+    "login": "abenoist",
+    "firstname": "Alain",
+    "lastname": "Benoist",
+    "mail": "alain.benoist@corp.com",
+    "phone": "+033678372933",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 3,
+    "login": "jmbenoist",
+    "firstname": "Jean-Marie",
+    "lastname": "Benoist",
+    "mail": "jean-marie.benoist@corp.com",
+    "phone": "+033678372934",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 4,
+    "login": "jbenoist",
+    "firstname": "Jocelyn",
+    "lastname": "Benoist",
+    "mail": "jocelyn.benoist@corp.com",
+    "phone": "+033678372935",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 5,
+    "login": "dbensaïd",
+    "firstname": "Daniel",
+    "lastname": "Bensaïd",
+    "mail": "daniel.bensaïd@corp.com",
+    "phone": "+033678372936",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 6,
+    "login": "gbensussan",
+    "firstname": "Gérard",
+    "lastname": "Bensussan",
+    "mail": "gérard.bensussan@corp.com",
+    "phone": "+033678372937",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 7,
+    "login": "nberdiaev",
+    "firstname": "Nicolas",
+    "lastname": "Berdiaev",
+    "mail": "nicolas.berdiaev@corp.com",
+    "phone": "+033678372938",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 8,
+    "login": "gberger",
+    "firstname": "Gaston",
+    "lastname": "Berger",
+    "mail": "gaston.berger@corp.com",
+    "phone": "+033678372939",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 9,
+    "login": "hbergson",
+    "firstname": "Henri",
+    "lastname": "Bergson",
+    "mail": "henri.bergson@corp.com",
+    "phone": "+033678372910",
+    "age": 32,
+    "permission": "w"
+  },
+  {
+    "id": 10,
+    "login": "gbernheim",
+    "firstname": "Gilles",
+    "lastname": "Bernheim",
+    "mail": "gilles.bernheim@corp.com",
+    "phone": "+033678372911",
+    "age": 32,
+    "permission": "w"
+  },
+  {
+    "id": 11,
+    "login": "fbernier",
+    "firstname": "François",
+    "lastname": "Bernier",
+    "mail": "françois.bernier@corp.com",
+    "phone": "+033678372912",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 12,
+    "login": "hberr",
+    "firstname": "Henri",
+    "lastname": "Berr",
+    "mail": "henri berr@corp.com",
+    "phone": "+033678372913",
+    "age": 32,
+    "permission": "w"
+  },
+  {
+    "id": 13,
+    "login": "ebersot",
+    "firstname": "Ernest",
+    "lastname": "Bersot",
+    "mail": "ernest.bersot@corp.com",
+    "phone": "+033678372914",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 14,
+    "login": "jbiard",
+    "firstname": "Joël",
+    "lastname": "Biard",
+    "mail": "joël.biard@corp.com",
+    "phone": "+033678372915",
+    "age": 32,
+    "permission": "a"
+  },
+  {
+    "id": 15,
+    "login": "abidar",
+    "firstname": "Abdennour",
+    "lastname": "Bidar",
+    "mail": "abdennour.bidar@corp.com",
+    "phone": "+033678372916",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 16,
+    "login": "jbidet",
+    "firstname": "Jacques",
+    "lastname": "Bidet",
+    "mail": "jacques.bidet@corp.com",
+    "phone": "+033678372917",
+    "age": 32,
+    "permission": "w"
+  },
+  {
+    "id": 17,
+    "login": "gbigot",
+    "firstname": "Guillaume",
+    "lastname": "Bigot",
+    "mail": "guillaume.bigot@corp.com",
+    "phone": "+033678372918",
+    "age": 32,
+    "permission": "w"
+  },
+  {
+    "id": 18,
+    "login": "jbillier",
+    "firstname": "Jean-Cassien",
+    "lastname": "Billier",
+    "mail": "jean-cassien.billier@corp.com",
+    "phone": "+033678372919",
+    "age": 32,
+    "permission": "r"
+  },
+  {
+    "id": 19,
+    "login": "hbirault",
+    "firstname": "Henri",
+    "lastname": "Birault",
+    "mail": "henri.birault@corp.com",
+    "phone": "+0336783729220",
+    "age": 32,
+    "permission": "a"
+  },
+  {
+    "id": 20,
+    "login": "hbirault",
+    "firstname": "Henri",
+    "lastname": "Birault",
+    "mail": "henri.birault@corp.com",
+    "phone": "+0336783729220",
+    "age": 32,
+    "permission": "a"
+  },
+  {
+    "id": 21,
+    "login": "hbirault",
+    "firstname": "Henri",
+    "lastname": "Birault",
+    "mail": "henri.birault@corp.com",
+    "phone": "+0336783729220",
+    "age": 32,
+    "permission": "a"
+  },
+  {
+    "id": 22,
+    "login": "hbirault",
+    "firstname": "Henri",
+    "lastname": "Birault",
+    "mail": "henri.birault@corp.com",
+    "phone": "+0336783729220",
+    "age": 32,
+    "permission": "a"
+  }
+]
