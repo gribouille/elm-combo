@@ -1,14 +1,20 @@
 module Combo exposing
-    ( Config
-    , Model
-    , State
-    , config
-    , init
-    , value
+    ( Config, Model, State, config, init, value
     , view
     )
 
 {-| Combobox component.
+
+
+# Data
+
+@docs Config, Model, State, config, init, value
+
+
+# View
+
+@docs view
+
 -}
 
 import Array exposing (fromList)
@@ -19,10 +25,14 @@ import Json.Decode as Json
 import Maybe exposing (withDefault)
 
 
+{-| Combo options.
+-}
 type alias Model =
     List String
 
 
+{-| Opaque type to manage the states of component.
+-}
 type State
     = State
         { show : Bool -- show the values
@@ -32,16 +42,22 @@ type State
         }
 
 
+{-| Get the selected value.
+-}
 value : State -> String
 value (State state) =
     state.value
 
 
+{-| Initialize the component state.
+-}
 init : String -> State
 init val =
     State { show = False, value = val, search = Nothing, select = -1 }
 
 
+{-| Opaque type to configure the component (construct with the `config` function).
+-}
 type Config msg
     = Config
         { pipe : State -> msg
@@ -49,11 +65,15 @@ type Config msg
         }
 
 
+{-| Config constructor.
+-}
 config : (State -> msg) -> List String -> Config msg
 config pipe items =
     Config { pipe = pipe, items = items }
 
 
+{-| Component view.
+-}
 view : Config msg -> State -> Html msg
 view (Config c) (State state) =
     let
